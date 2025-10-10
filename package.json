@@ -1,19 +1,20 @@
 {
-  "name": "notion-next",
+  "name": "logbook-docs",
   "version": "4.9.1",
-  "homepage": "https://github.com/tangly1024/NotionNext.git",
+  "description": "Logbook - Evan's Knowledge Repository. A personal knowledge management system built with NotionNext and Notion API.",
+  "homepage": "https://github.com/evanbio/docs",
   "license": "MIT",
   "engines": {
     "node": ">=20"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tangly1024/NotionNext.git"
+    "url": "https://github.com/evanbio/docs.git"
   },
   "author": {
-    "name": "tangly",
-    "email": "mail@tangly1024.com",
-    "url": "http://tangly1024.com"
+    "name": "Evan Zhou",
+    "email": "evanzhou.bio@gmail.com",
+    "url": "https://docs.evanzhou.org"
   },
   "scripts": {
     "dev": "next dev",
@@ -105,7 +106,7 @@
     "axios": ">=0.21.1"
   },
   "bugs": {
-    "url": "https://github.com/tangly/NotionNext/issues",
-    "email": "tlyong1992@hotmail.com"
+    "url": "https://github.com/evanbio/docs/issues",
+    "email": "evanzhou.bio@gmail.com"
   }
 }
