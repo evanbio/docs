@@ -1,77 +1,157 @@
-# 帮助教程
+<div align="center">
 
-访问帮助：[NotionNext帮助手册](https://docs.tangly1024.com/)
+# 📚 Logbook
 
-> 本项目教程为免费、公开资源，仅限个人学习使用，禁止利用本教程建立的博客发布非法内容、进行违法犯罪活动。严禁任何个人或组织将本教程用于商业用途，包括但不限于直接售卖、间接收费、或其他变相盈利行为。转载、复制或介绍本教程内容时，须保留作者信息并明确注明来源。 
-> 本项目仅提供由作者团队授权的付费咨询服务，请注意辨别，谨防诈骗行为。任何未经授权的收费服务均可能存在法律风险。
+**Evan's Knowledge Repository | Long-Term Knowledge Recording Station**
 
-Notion是一个能让效率暴涨的生产力引擎，可以帮你书写文档、管理笔记，搭建知识库，甚至可以为你规划项目、时间管理、组织团队、提高生产力、还有当前最强大的AI技术加持。
+[![Visit Docs](https://img.shields.io/badge/🌐_Visit_Docs-docs.evanzhou.org-blue?style=for-the-badge)](https://docs.evanzhou.org/)
 
-> 如果希望进一步探索Notion的功能，欢迎购买《[Notion笔记从入门到精通进阶课程](https://docs.tangly1024.com/article/notion-tutorial)》
+English | [简体中文](./README_CN.md)
 
-# NotionNext
+</div>
 
-<p>
-  <a aria-label="GitHub commit activity" href="https://github.com/tangly1024/NotionNext/commits/main" title="GitHub commit activity">
-    <img src="https://img.shields.io/github/commit-activity/m/tangly1024/NotionNext?style=for-the-badge"/>
-  </a>
-  <a aria-label="GitHub contributors" href="https://github.com/tangly1024/NotionNext/graphs/contributors" title="GitHub contributors">
-    <img src="https://img.shields.io/github/contributors/tangly1024/NotionNext?color=orange&style=for-the-badge"/>
-  </a>
-  <a aria-label="Build status" href="#" title="Build status">
-    <img src="https://img.shields.io/github/deployments/tangly1024/NotionNext/Production?logo=Vercel&style=for-the-badge"/>
-  </a>
-  <a aria-label="Powered by Vercel" href="https://vercel.com?utm_source=Craigary&utm_campaign=oss" title="Powered by Vercel">
-    <img src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg" height="28"/>
-  </a>
-</p>
+---
 
-中文文档 | [README in English](./README_EN.md)
+## 📖 About Logbook
 
-<hr/>
+**Logbook** is my personal knowledge management system—a carefully curated collection of tutorials, methodologies, tool configurations, and research resources.
 
-一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。
+> "电影以余味定高低 ✨" (Films are judged by their aftertaste)
+> "记录是成长的开始" (Recording is the beginning of growth)
 
-支持多种部署方案
+This repository documents technical know-how, research insights, and practical guides that I've accumulated through learning and work. It's designed to be a searchable, organized reference for myself and anyone who finds these resources helpful.
 
-## 预览效果
+🔗 **Visit Online**: [https://docs.evanzhou.org/](https://docs.evanzhou.org/)
 
-在线演示：[https://preview.tangly1024.com/](https://preview.tangly1024.com/) ，点击左下角挂件可以切换主题，没找到喜欢的主题？[贡献](/CONTRIBUTING.md)一个吧~
+---
 
-| Next                                                                                                  | Medium                                                                                                      | Hexo                                                                                                  | Fukasawa                                                                                                          |
-| ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| <img src='./docs/theme-next.png' width='300'/> [预览NEXT](https://preview.tangly1024.com/?theme=next) | <img src='./docs/theme-medium.png' width='300'/> [预览MEDIUM](https://preview.tangly1024.com/?theme=medium) | <img src='./docs/theme-hexo.png' width='300'/> [预览HEXO](https://preview.tangly1024.com/?theme=hexo) | <img src='./docs/theme-fukasawa.png' width='300'/> [预览FUKASAWA](https://preview.tangly1024.com/?theme=fukasawa) |
+## 📂 Content Categories
 
-## 致谢
+### 🛠️ Tech Chronicles
+Technical tutorials and tool configurations for daily development work.
 
-感谢Craig Hart发起的Nobelium项目
+- **Linux & Bash** - Command-line essentials and shell scripting
+- **Web Technologies** - CSS, HTML fundamentals and best practices
+- **Productivity Tools** - Pandoc, Chrome extensions, and workflow optimization
 
-<table><tr align="left">
-  <td align="center"><a href="https://github.com/craigary" title="Craig Hart"><img src="https://avatars.githubusercontent.com/u/10571717" width="64px;"alt="Craig Hart"/></a><br/><a href="https://github.com/craigary" title="Craig Hart">Craig Hart</a></td>
-</tr></table>
+### 📈 R Visionary
+R programming for data analysis and visualization.
 
-## 贡献者
+- **R Programming** - From basics to advanced techniques
+- **Data Visualization** - Creating compelling charts with ggplot2
+- **Statistical Analysis** - Practical statistical methods and applications
 
-致敬每一位开发者！
+### 🗒️ Mind Notes
+Curated quotes, insights, and inspirational fragments.
 
-[![Contributors](https://contrib.rocks/image?repo=tangly1024/NotionNext)](https://github.com/tangly1024/NotionNext/graphs/contributors)
+- **Quotes Collection** - Wisdom from books, films, and life
+- **Reflection Fragments** - Thoughts worth preserving
 
-## 引用技术
+### 🧠 Creative Resources
+Resources for naming, design, and creative inspiration.
 
-- **框架**: [Next.js](https://nextjs.org)
-- **样式**: [Tailwind CSS](https://www.tailwindcss.cn/)
-- **渲染**: [React-notion-x](https://github.com/NotionX/react-notion-x)
-- **评论**: [Twikoo](https://github.com/imaegoo/twikoo), [Giscus](https://giscus.app/zh-CN), [Gitalk](https://gitalk.github.io), [Cusdis](https://cusdis.com), [Utterances](https://utteranc.es)
-- **图标**: [Fontawesome](https://fontawesome.com/v6/icons/)
+- **Naming Conventions** - Project and variable naming best practices
+- **Design Inspiration** - Color schemes, typography, and UI patterns
 
-## 🔗 友情链接
+### 📘 SOPs (Standard Operating Procedures)
+Step-by-step guides for common tasks and account setups.
 
-- [Elog](https://github.com/LetTTGACO/elog) Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
+- **Account Registration** - Detailed guides for various platforms
+- **Configuration Walkthroughs** - Setting up tools and services
 
-## License
+### 🩺 Medical Research
+Biomedical databases, research tools, and scientific resources.
 
-The MIT License.
+- **Database References** - PubMed, NCBI, and specialized databases
+- **Research Tools** - Software and platforms for biomedical research
 
-## Star History
+### 💰 Fortune Blueprint
+Financial planning, investment strategies, and immigration resources.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=tangly1024/NotionNext&type=Date)](https://star-history.com/#tangly1024/NotionNext&Date)
+- **Personal Finance** - Budgeting and investment principles
+- **Immigration Guides** - Resources for international mobility
+
+### 🧬 Data Atlas
+Bioinformatics, data analysis, and computational biology resources.
+
+- **Bioinformatics Tools** - Software and pipelines for genomic analysis
+- **Data Analysis** - Methods and best practices for biological data
+
+---
+
+## ✨ Site Features
+
+- 📚 **Gitbook Theme** - Clean, book-like reading experience
+- 🌙 **Dark Mode** - Eye-friendly reading in any lighting
+- 🔍 **Algolia Search** - Fast, powerful full-text search (Ctrl+K)
+- 📊 **Multiple Views** - Table, gallery, and board layouts
+- ⌨️ **Keyboard Shortcuts** - Navigate efficiently with hotkeys
+- 🔄 **Continuous Updates** - Content is regularly refined and expanded
+- 🌐 **Multi-Device Support** - Responsive design for any screen size
+
+---
+
+## 🛠️ Technical Stack
+
+This knowledge base is built on [NotionNext](https://github.com/tangly1024/NotionNext), using Notion as the content management backend.
+
+**Core Technologies**:
+- **Framework**: Next.js + React
+- **Data Source**: Notion API
+- **Theme**: Gitbook (customized)
+- **Styling**: Tailwind CSS
+- **Deployment**: Vercel
+- **Search**: Algolia
+- **Analytics**: Google Analytics
+
+---
+
+## 🚀 Usage
+
+### Online Access
+Simply visit [https://docs.evanzhou.org/](https://docs.evanzhou.org/) to browse all content.
+
+### Search
+Press `Ctrl+K` (or `Cmd+K` on Mac) to open the search bar and find anything quickly.
+
+### Citation
+Feel free to reference and share content from this knowledge base. Please credit the source when republishing.
+
+---
+
+## 📧 Contact
+
+- 📮 Email: [evanzhou.bio@gmail.com](mailto:evanzhou.bio@gmail.com)
+- 🐙 GitHub: [@evanbio](https://github.com/evanbio)
+- 📝 Blog: [blog.evanzhou.org](https://blog.evanzhou.org/)
+- 📚 Docs: [docs.evanzhou.org](https://docs.evanzhou.org/)
+
+Questions, suggestions, or found an error? Feel free to reach out via email or GitHub Issues!
+
+---
+
+## 🙏 Acknowledgments
+
+Special thanks to [tangly1024](https://github.com/tangly1024) for developing [NotionNext](https://github.com/tangly1024/NotionNext), making it effortless to maintain this knowledge repository.
+
+Thanks to all readers and contributors!
+
+---
+
+## 📄 License
+
+This repository is licensed under the MIT License.
+
+Documentation content copyright belongs to the author. Attribution required when republishing.
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Evan Zhou**
+
+🌟 If you find these resources helpful, welcome to bookmark and share!
+
+[Visit Logbook →](https://docs.evanzhou.org/)
+
+</div>
