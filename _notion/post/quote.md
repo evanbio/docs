@@ -1,3 +1,14 @@
+---
+title: Quote · 字里行间
+type: Post
+status: Published
+date: 2025-04-30
+slug: quote
+summary: 收集来自书籍、影视、对话和日常瞬间中值得停下来想一想的句子，作为长期积累的表达素材与私人摘录。
+tags: 引文; 摘录; 句子
+category: 🗂 Collection
+---
+
 *记录那些让我停下来想一想的话。来自书、对话、或某个随机的瞬间。*
 
 > “Words are, of course, the most powerful drug used by mankind.” — Rudyard Kipling

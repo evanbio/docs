@@ -1,4 +1,13 @@
 ---
+title: Typora · Markdown 写作指南
+type: Post
+status: Published
+date: 2025-05-16
+slug: typora-guide
+summary: 本笔记介绍 Markdown 的基本概念与 Typora 的安装、基础语法、偏好设置、图片管理、导出配置和常见写作场景，适合作为 Markdown 写作工具的入门参考。
+tags: Typora; Markdown; Pandoc
+category: 🛠 Tech
+---
 
 > Markdown 是一种让写作更轻松、更专注的轻量级标记语言，而 Typora 是写 Markdown 最舒适的编辑器之一。这篇文章将带你从零开始，快速了解 Markdown 基础，并学会使用 Typora 高效书写和整理文档。
 > 

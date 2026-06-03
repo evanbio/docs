@@ -1,3 +1,14 @@
+---
+title: Vibe Coding：编程新方式？
+type: Post
+status: Published
+date: 2025-04-30
+slug: vibe-coding
+summary: 一篇从初学者视角出发的笔记，讨论 Vibe Coding 这一新兴编程方式的概念、体验与思考。
+tags: Vibe Coding; AI; 编程
+category: 🛠 Tech
+---
+
 最近在不同的平台上都接触到 **Vibe Coding** 这个词，不少关注的博主都推崇备至，认为它可能会改变未来。出于好奇，我进一步了解了一下，决定写一篇笔记来讨论这个时兴的概念。
 
 初次听说时我很疑惑：这是一种新的编程语言吗？还是某个 IDE 的新功能？结果查阅资料后才发现，它更像是一种“编程方式”。这个概念是在今年年初由 Karpathy 提出的，大意就是：**通过自然语言和 AI 对话，把代码的细节交给 AI，开发者只需要关注需求和感觉。**

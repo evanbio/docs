@@ -1,3 +1,14 @@
+---
+title: bioRxiv 与预印本
+type: Post
+status: Published
+date: 2025-05-04
+slug: biorxiv
+summary: 预印本（Preprint）是一种在同行评审前公开发布学术成果的方式。本文介绍 bioRxiv 与 medRxiv 的机制、提交流程、引用方式及其在开放科学中的角色。
+tags: 预印本; bioRxiv; medRxiv; 学术出版
+category: 🧭 Research
+---
+
 ![biorxiv](../image/biorxiv_1.png)
 
 ![medrxiv](../image/biorxiv_2.png)

@@ -1,3 +1,14 @@
+---
+title: 科学上网指南
+type: Post
+status: Published
+date: 2025-07-15
+slug: guide-to-internet-freedom
+summary: 本笔记整理了科学上网的工具准备、机场注册、客户端安装、订阅导入、macOS 与 iOS 配置，以及常见问题处理流程。
+tags: 科学上网; 代理工具; v2rayN; Shadowrocket
+category: 📘 SOPs
+---
+
 > 💡 本文旨在为大陆用户提供一套简单、安全、实用的科学上网配置方案，帮助你顺利连接全球互联网，访问 ChatGPT、Google、YouTube、GitHub 等核心资源。
 > 
 

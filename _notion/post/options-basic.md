@@ -1,3 +1,14 @@
+---
+title: 期权基础：概念、类型与风险
+type: Post
+status: Published
+date: 2025-10-07
+slug: options-basic
+summary: 系统梳理期权的基本定义、Call 与 Put、买卖双方权利义务、核心定价要素、常见用途与主要风险。
+tags: 期权; 美股; 金融衍生品; 投资笔记
+category: 💰 Finance
+---
+
 ### 一、期权的定义与本质
 
 - **定义：**

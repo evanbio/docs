@@ -1,3 +1,14 @@
+---
+title: 创建账号 · Google
+type: Post
+status: Published
+date: 2025-05-06
+slug: create-account-google
+summary: 本笔记整理了创建 Google 账号的准备工具、浏览器语言设置、注册步骤、手机号验证与附加资源，适用于需要访问 Gmail、Google Drive、YouTube 等 Google 服务的场景。
+tags: Google; Gmail; 账号注册
+category: 📘 SOPs
+---
+
 本文旨在为大陆用户提供一份详细的Google账号注册指南。对于许多人来说，Google账号不仅是访问Gmail、Google Drive、YouTube等服务的入口，也是连接全球信息和工具的重要钥匙。由于政策限制和技术壁垒，大陆用户在注册Google账号时可能会遇到一些特殊挑战。本指南将帮助您快速、顺利地完成账号创建，并解决常见问题。
 
 ---

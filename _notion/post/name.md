@@ -1,3 +1,14 @@
+---
+title: Name · 名以载道
+type: Post
+status: Published
+date: 2025-04-30
+slug: name
+summary: 整理适合 GitHub 仓库、文档标题、博客栏目和项目命名的名称灵感，并记录其来源、寓意与适用场景。
+tags: 命名; 创意; 项目命名; 写作素材
+category: 🗂 Collection
+---
+
 *用于记录各种富有意义、有趣或适合项目的名称，可用于 GitHub 仓库、文档标题、博客栏目或任何需要命名创意的场合。每个名称建议附上其来源、寓意与适用场景，便于未来复用与调整。*
 
 ---

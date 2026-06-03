@@ -1,3 +1,14 @@
+---
+title: 生成境外地址
+type: Post
+status: Published
+date: 2025-05-06
+slug: generate-foreign-address
+summary: 本笔记整理了生成境外地址的常用工具、使用场景、操作流程与注意事项，适用于注册国际平台、配置海外账号或测试系统地址字段等需求。
+tags: 境外地址; 地址生成; 账号注册
+category: 📘 SOPs
+---
+
 ## **📖 背景说明（Background）**
 
 在注册国际平台（如 Apple ID、GitHub、NIH、Coursera 等）或进行功能测试时，用户经常需要填写一个特定国家或地区的有效地址信息，作为身份信息的一部分。

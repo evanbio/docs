@@ -1,3 +1,14 @@
+---
+title: Immersive Translate · 沉浸式翻译
+type: Post
+status: Published
+date: 2025-05-18
+slug: immersive-translate-introduction
+summary: Immersive Translate 是一款免费开源的浏览器翻译插件，支持网页双语对照、划词翻译、视频字幕翻译和多场景跨语言阅读，适合文献阅读、语言学习与日常浏览。
+tags: 翻译工具; 浏览器插件; GitHub
+category: 🛠 Tech
+---
+
 随着全球化发展和多语言场景的普及，翻译工具已成为我们生活和工作的不可或缺的一部分。然而，大多数翻译工具以独立应用或有限的网页插件形式存在，难以实现真正的无缝沉浸式体验。今天，我们将重点介绍一款优秀的开源浏览器插件——**Immersive Translate**。它不仅提供高效、即时的翻译功能，还支持丰富的个性化设置，为用户带来更加顺畅的跨语言交流和学习体验。
 
 ---

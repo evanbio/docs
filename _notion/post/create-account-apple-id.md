@@ -1,3 +1,14 @@
+---
+title: 创建账号 · Apple
+type: Post
+status: Published
+date: 2025-05-06
+slug: create-account-apple-id
+summary: 本笔记规范整理了注册美区 Apple ID 的完整流程，包括所需工具、地址生成、注册技巧与注意事项，适用于访问美区 App Store、下载海外应用、注册 Apple 开发者账号等需求。
+tags: Apple ID; 美区账号; App Store; 账号注册
+category: 📘 SOPs
+---
+
 ## 📖 背景说明（Background）
 
 美区 Apple ID（即注册国家为“美国”的 Apple 账号）可以访问更多样的 App 与服务。例如：

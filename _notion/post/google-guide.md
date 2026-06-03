@@ -1,3 +1,14 @@
+---
+title: Google Chrome 与搜索技巧
+type: Post
+status: Published
+date: 2025-09-08
+slug: google-guide
+summary: 本笔记整理 Google Chrome 的基础设置、常用快捷键、扩展推荐、问题排查，以及 Google 高级搜索语法和搜索效率提升方法。
+tags: Google; Chrome; 搜索技巧; 浏览器插件
+category: 🛠 Tech
+---
+
 > 从基础设置、快捷键到进阶技巧与问题排查，最后附上扩展与学习资源清单（含高级搜索语法）。可作长期索引与速查。
 > 
 

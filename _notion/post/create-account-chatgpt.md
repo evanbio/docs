@@ -1,3 +1,14 @@
+---
+title: 创建账号 · ChatGPT
+type: Post
+status: Published
+date: 2025-05-09
+slug: create-account-chatgpt
+summary: 本笔记整理了 ChatGPT 账号注册与 Plus 订阅流程，包括所需工具、网页登录、iOS App Store 订阅路径、网页端支付方式与常见问题。
+tags: ChatGPT; 科学上网; 账号注册
+category: 📘 SOPs
+---
+
 > 本文旨在帮助大陆用户顺利完成 ChatGPT 的注册与 Plus 订阅，适配网页端和 App Store 两种路径。
 
 ![create-account-chatgpt_1](../image/create-account-chatgpt_1.png)

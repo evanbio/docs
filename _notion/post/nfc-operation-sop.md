@@ -1,3 +1,14 @@
+---
+title: NFC 卡读取与写入流程
+type: Post
+status: Published
+date: 2025-06-16
+slug: nfc-operation-sop
+summary: 本笔记整理了在 Windows 环境下使用 USB RFID 读卡器和 NFC Reader Tool 进行卡片读取、数据保存、写入与验证的基本操作流程。
+tags: NFC; RFID; 读卡器
+category: 📘 SOPs
+---
+
 ### 🧰 所需准备
 
 - 一台运行 Windows 系统的电脑（推荐 Win10 或以上）

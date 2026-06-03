@@ -1,3 +1,14 @@
+---
+title: LocalSend · 局域网文件传输
+type: Post
+status: Published
+date: 2025-05-16
+slug: localsend-introduction
+summary: LocalSend 是一款免费、开源的文件传输工具，通过局域网连接多平台设备，支持高效、安全的文件共享，特别适合 iOS 和 Windows 的跨平台传输。
+tags: LocalSend; 文件传输; 局域网; 跨平台
+category: 🛠 Tech
+---
+
 在日常生活和工作中，文件传输是每个人都会遇到的需求，尤其是在手机和电脑之间共享文件时，常常令人头疼。很多人会习惯使用微信或 QQ 来传输文件，但这些工具存在明显的局限性：
 
 - **速度慢**：尤其是大文件，上传和下载都需要很长时间。

@@ -1,3 +1,14 @@
+---
+title: 期权交易策略：从单腿到组合
+type: Post
+status: Published
+date: 2025-10-21
+slug: option-trading-strategies
+summary: 梳理常见期权交易策略，包括买入看涨、买入看跌、备兑看涨、价差、蝶式和铁鹰策略，并讨论波动率、时间价值与风险管理。
+tags: 期权; 交易策略; 风险管理; 波动率
+category: 💰 Finance
+---
+
 ### 一、期权策略的核心逻辑
 
 期权交易的本质，是在**风险与收益曲线中做设计**。

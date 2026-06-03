@@ -1,3 +1,14 @@
+---
+title: Font · 字体手册
+type: Post
+status: Published
+date: 2025-04-30
+slug: font
+summary: 整理代码编辑器、终端、写作笔记、演示幻灯片和中文排版场景下常用、推荐或正在使用的字体。
+tags: 字体; 排版; 设计规范; 工具配置
+category: 🎨 Design
+---
+
 *记录各场景下规范、推荐或好看的字体，持续更新。*
 
 > ⭐ 个人在用 · 👍 社区推荐 · 🏷️ 官方默认
