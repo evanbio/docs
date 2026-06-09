@@ -1,3 +1,14 @@
+---
+title: Windows 11 恢复经典右键菜单笔记
+type: Post
+status: Published
+date: 2025/12/31
+slug: restore-win10-context-menu-in-win11
+summary: 本笔记记录在 Windows 11 中通过注册表命令恢复 Windows 10 经典右键菜单的方法，包括管理员终端操作、重启资源管理器生效，以及恢复默认新版菜单的命令。
+tags: Win11; 右键菜单; 注册表
+category: 🛠 Tech
+---
+
 ### 问题描述
 
 切换到 Windows 11 后，最大的痛点之一就是**右键菜单**的设计。

@@ -1,3 +1,14 @@
+---
+title: PR Template 使用笔记
+type: Post
+status: Published
+date: 2025/09/08
+slug: pr-template-guide
+summary: 本笔记解析 GitHub PR 模板的常见结构、勾选项含义、提交前自检清单，以及严格版和精简版模板的适用场景，方便在不同仓库复用。
+tags: GitHub; Pull Request; Git
+category: 🛠 Tech
+---
+
 > 本文解析一个通用的 GitHub PR 模板：说明每一条勾选项背后的目的，给出提交前自检清单，并提供两个可选变体（严格版 / 精简版）以便在不同仓库复用。
 > 
 

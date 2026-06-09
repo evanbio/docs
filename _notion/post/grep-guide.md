@@ -1,3 +1,14 @@
+---
+title: grep 文本搜索笔记
+type: Post
+status: Published
+date: 2025/09/08
+slug: grep-guide
+summary: 本笔记介绍 grep 的基本语法、常用选项、大小写忽略、反向匹配、显示行号、递归搜索、上下文输出与正则表达式匹配等 Linux 文本搜索用法。
+tags: grep; Linux; 文本搜索
+category: 🛠 Tech
+---
+
 > grep (Global Regular Expression Print) 是 Linux/Unix 系统中最常用的文本搜索工具之一。它基于 正则表达式 匹配，能在文件或输入流中快速查找指定内容，常用于日志分析、代码搜索和系统监控。
 > 
 

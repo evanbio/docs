@@ -1,3 +1,14 @@
+---
+title: Linux 基础入门笔记
+type: Post
+status: Published
+date: 2025/09/08
+slug: linux-intro
+summary: 本笔记介绍 Linux 的基本概念、开源特性、常见发行版、系统架构、Shell、文件系统、包管理器，以及服务器、嵌入式、开发科研和网络安全等应用场景。
+tags: Linux; 操作系统; 开源
+category: 🛠 Tech
+---
+
 > Linux 是一种开源的类 Unix 操作系统内核，由 Linus Torvalds 在 1991 年首次发布。基于 Linux 内核构建的发行版广泛应用于服务器、嵌入式系统、桌面环境和科研领域。
 > 
 

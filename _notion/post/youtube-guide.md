@@ -1,3 +1,14 @@
+---
+title: YouTube 使用笔记
+type: Post
+status: Published
+date: 2025-09-08
+slug: youtube-guide
+summary: 本笔记整理 YouTube 的常见设置、快捷键、进阶使用技巧、推荐内容优化、问题排查以及学习资源，方便作为日常使用和学习检索的速查指南。
+tags: YouTube; 效率工具; 快捷键
+category: 🛠 Tech
+---
+
 > 本文整理了 YouTube 的常见设置、快捷键、进阶技巧、常见问题解决方案以及学习资源，方便快速参考与长期使用。
 > 
 

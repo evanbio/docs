@@ -1,3 +1,14 @@
+---
+title: 点号隐藏文件与项目配置目录
+type: Post
+status: Published
+date: 2025/09/08
+slug: dot-folders
+summary: 本笔记介绍 Unix/Linux 中以点号开头的隐藏文件和隐藏目录的基本概念、显示方式、项目中的典型用途，以及 .github、.circleci、.vscode、.gitignore 等配置文件和目录的作用。
+tags: 隐藏文件; 隐藏目录; Linux
+category: 🛠 Tech
+---
+
 > 在 Unix/Linux 系统中，文件名或文件夹名前加点 (.) 表示这是一个 隐藏文件 或 隐藏目录。这类文件通常用于存储配置、脚本或系统相关内容，默认情况下不会出现在普通文件列表中，除非显式指定显示隐藏文件。
 > 
 

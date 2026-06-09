@@ -1,3 +1,14 @@
+---
+title: awk 文本处理笔记
+type: Post
+status: Published
+date: 2025/09/08
+slug: awk-guide
+summary: 本笔记介绍 awk 的基本语法、按行列处理文本的工作流程、字段变量、条件匹配、打印与计算操作，以及在 Linux 命令行数据处理中的常见用法。
+tags: awk; Linux; 文本处理
+category: 🛠 Tech
+---
+
 > awk 是一个强大的文本处理工具，比 sed 更灵活，尤其适合基于 行与列 的数据处理与分析。它由 Aho、Weinberger、Kernighan 三人设计，名字取自三人姓氏首字母。
 > 
 

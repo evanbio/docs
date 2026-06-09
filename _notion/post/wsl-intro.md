@@ -1,3 +1,14 @@
+---
+title: WSL Windows Linux 子系统入门笔记
+type: Post
+status: Published
+date: 2025/09/12
+slug: wsl-intro
+summary: 本笔记介绍 Windows Subsystem for Linux 的基本概念、WSL1 与 WSL2 的区别、适用开发场景、常用安装命令、发行版选择，以及 Windows 与 Linux 文件系统互通方式。
+tags: WSL; Windows; Linux
+category: 🛠 Tech
+---
+
 > 在 Windows 上无缝运行 Linux，为开发者打开新世界的大门。
 
 ---

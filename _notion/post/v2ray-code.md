@@ -1,3 +1,14 @@
+---
+title: v2Ray 自建节点配置笔记
+type: Post
+status: Published
+date: 2025-11-12
+slug: v2ray-code
+summary: 本笔记记录使用 Xray 核心搭建 V2Ray 节点的完整流程，包括 VMess、WebSocket、Nginx、TLS 证书、Cloudflare DNS、V2RayN 客户端配置，以及常见连接和延迟问题排查。
+tags: V2Ray; Xray; VMess; VPS
+category: 🛠 Tech
+---
+
 ## 0. 目标
 
 本文档的目标是记录一次完整的 V2Ray (Xray 核心) 节点的搭建过程。

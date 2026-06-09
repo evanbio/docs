@@ -1,3 +1,14 @@
+---
+title: TOML 格式笔记
+type: Post
+status: Published
+date: 2025/09/08
+slug: toml-guide
+summary: 本笔记介绍 TOML 的基本概念、文件用途、键值对语法、表与数组写法、常见配置场景，以及它在 Python 和 Rust 项目配置中的应用。
+tags: TOML; 数据格式; 配置文件
+category: 🛠 Tech
+---
+
 > TOML (Tom's Obvious, Minimal Language) 是一种简洁的配置文件格式，强调可读性和易用性。它常用于软件和项目的配置文件，尤其在 Python 生态中（如 pyproject.toml）已成为标准。
 > 
 

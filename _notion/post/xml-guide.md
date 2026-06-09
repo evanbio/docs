@@ -1,3 +1,14 @@
+---
+title: XML 格式笔记
+type: Post
+status: Published
+date: 2025/09/08
+slug: xml-guide
+summary: 本笔记介绍 XML 的基本概念、文件用途、标签语法、属性与嵌套结构、命名空间、常见应用场景，以及与 JSON、YAML 等数据格式的区别。
+tags: XML; 数据格式; 配置文件
+category: 🛠 Tech
+---
+
 > XML (eXtensible Markup Language) 是一种用于描述、存储和传输数据的标记语言。它强调数据的结构化和自描述性，常用于 Web 服务、配置文件、文档格式和跨平台数据交换。
 > 
 

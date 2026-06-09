@@ -1,5 +1,5 @@
 ---
-title: Pandoc 文档转换指南
+title: Pandoc 使用笔记
 type: Post
 status: Published
 date: 2025-09-08

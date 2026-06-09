@@ -1,3 +1,14 @@
+---
+title: sed 文本编辑笔记
+type: Post
+status: Published
+date: 2025/09/08
+slug: sed-guide
+summary: 本笔记介绍 sed 的基本语法、流式文本处理方式、打印、删除、替换、插入、原地编辑、地址范围与正则匹配等常见命令行用法。
+tags: sed; Linux; 文本处理
+category: 🛠 Tech
+---
+
 > sed（Stream EDitor） 是用于按行流式处理文本的编辑器，适合批量替换、插入、删除、筛选等操作。它既能处理文件，也能在管道中处理其它命令的输出；与 grep/awk 组合非常强大。
 > 
 

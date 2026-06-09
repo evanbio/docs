@@ -1,5 +1,5 @@
 ---
-title: Writage · Word Markdown 写作指南
+title: Writage 使用笔记
 type: Post
 status: Published
 date: 2025-09-08

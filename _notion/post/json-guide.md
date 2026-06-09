@@ -1,3 +1,14 @@
+---
+title: JSON 格式笔记
+type: Post
+status: Published
+date: 2025-09-08
+slug: json-guide
+summary: 本笔记介绍 JSON 的基本概念、文件用途、语法规则、常见数据类型、嵌套结构、格式化与校验方法，以及在配置文件和数据交换中的典型应用。
+tags: JSON; 数据格式; 配置文件
+category: 🛠 Tech
+---
+
 > JSON (JavaScript Object Notation) 是一种轻量级的数据交换格式，最初基于 JavaScript 对象表示法，但现已成为跨语言的通用标准。它常用于客户端与服务器之间的数据传输，也广泛用于配置文件存储。
 > 
 

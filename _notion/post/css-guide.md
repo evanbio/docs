@@ -1,3 +1,14 @@
+---
+title: CSS 样式与布局笔记
+type: Post
+status: Published
+date: 2025/09/08
+slug: css-guide
+summary: 本笔记介绍 CSS 的主要功能、基本语法、选择器与声明块、盒模型、Flexbox 与 Grid 布局、响应式设计，以及过渡和动画等前端样式基础。
+tags: CSS; 前端开发; 样式表; 网页设计
+category: 🛠 Tech
+---
+
 > CSS (Cascading Style Sheets，层叠样式表) 是一种样式表语言，用于描述 HTML 或 XML 文件中元素的表现形式。CSS 决定网页的外观与布局，是前端开发的核心技术之一。通过 CSS，可以使同一网页在不同设备和屏幕尺寸下保持美观和一致性。
 > 
 

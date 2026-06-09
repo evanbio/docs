@@ -1,3 +1,14 @@
+---
+title: pip 与 uv 包管理对比笔记
+type: Post
+status: Published
+date: 2025/10/16
+slug: pip-vs-uv
+summary: 本笔记从设计理念、性能实现、依赖解析、环境管理、生态兼容和常见使用场景等角度，对比 Python 包管理工具 pip 与 uv 的差异和演进逻辑。
+tags: Python; pip; uv; package
+category: 🛠 Tech
+---
+
 > 从 pip install 到 uv add，Python 包管理的体验正在快速变化。本文尝试从设计理念、性能实现与生态兼容等方面，系统对比 pip 与 uv，理解 Python 包管理工具的演进逻辑。
 > 
 

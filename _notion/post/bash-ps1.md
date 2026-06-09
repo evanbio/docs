@@ -1,3 +1,14 @@
+---
+title: Bash PS1 提示符配置笔记
+type: Post
+status: Published
+date: 2025/09/08
+slug: bash-ps1
+summary: 本笔记介绍 Linux 中 Bash PS1 环境变量的作用、通过 ~/.bashrc 自定义终端提示符的方法，以及用户名、时间、工作目录、颜色转义和多行提示符的配置示例。
+tags: Bash; PS1; Linux
+category: 🛠 Tech
+---
+
 > 在 Linux 中，PS1 环境变量决定了终端提示符（Prompt）的样式。通过修改 ~/.bashrc 并重新加载，可以自定义提示符的显示效果。
 > 
 

@@ -1,3 +1,14 @@
+---
+title: HTML 格式笔记
+type: Post
+status: Published
+date: 2025/09/08
+slug: html-guide
+summary: 本笔记介绍 HTML 的基本概念、文件用途、常见标签、页面结构、链接与多媒体元素、表单写法，以及它与 CSS、JavaScript 在网页开发中的关系。
+tags: HTML; Web开发; 标记语言
+category: 🛠 Tech
+---
+
 > HTML (HyperText Markup Language) 是一种标记语言，用于定义网页内容和结构。它通过预定义的标签描述网页的文本、图像、链接、表单和多媒体，是构建网页和 Web 应用的基础。
 > 
 

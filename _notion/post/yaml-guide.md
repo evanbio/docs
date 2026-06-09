@@ -1,3 +1,14 @@
+---
+title: YAML 格式笔记
+type: Post
+status: Published
+date: 2025/09/08
+slug: yaml-guide
+summary: 本笔记介绍 YAML 的基本概念、文件用途、语法规则、缩进层级、列表与字典写法、多行字符串、常见配置场景以及与 JSON 的区别。
+tags: YAML; 数据格式; 配置文件
+category: 🛠 Tech
+---
+
 > YAML (YAML Ain't Markup Language) 是一种人类可读的标记语言，广泛用于配置文件（如 Ansible、Docker、Kubernetes 等工具）。它以简洁的语法表达复杂数据结构，尤其适合需要人工编写和维护的场景。
 > 
 
