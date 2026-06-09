@@ -1,3 +1,14 @@
+---
+title: Pandoc 文档转换指南
+type: Post
+status: Published
+date: 2025-09-08
+slug: pandoc-guide
+summary: 本笔记整理 Pandoc 的基本概念、常见文档格式转换命令、进阶用法、模板定制、PDF 引擎配置以及与 Quarto、R Markdown 等工具的关系。
+tags: Pandoc; Markdown; 文档转换; 写作工具
+category: 🛠 Tech
+---
+
 > Pandoc 是一个强大的文档转换工具，被称为“文档界的瑞士军刀”。它支持在 Markdown、Word、LaTeX、PDF、HTML 等几十种格式之间相互转换。本文整理 Pandoc 的基本概念、常见用法与进阶技巧。
 > 
 

@@ -1,3 +1,14 @@
+---
+title: Writage · Word Markdown 写作指南
+type: Post
+status: Published
+date: 2025-09-08
+slug: writage-guide
+summary: 本笔记介绍 Writage 的基本概念、安装方式、Word 与 Markdown 的协作模式、适用场景、优缺点以及与 Pandoc、Typora 等工具的关系。
+tags: Writage; Word; Markdown
+category: 🛠 Tech
+---
+
 > Writage 是一个 Microsoft Word 插件，安装后可以在 Word 中原生支持 Markdown 文件的编辑与保存。它解决了 Markdown 与 Word 格式间的转换问题，让习惯 Word 的用户也能无缝使用 Markdown。
 > 
 
