@@ -1,3 +1,14 @@
+---
+title: scRNAseq
+type: Post
+status: Published
+date: 2025/08/14
+slug: scrnaseq
+summary: 介绍 Bioconductor 的 scRNAseq 包及其内置的多个单细胞转录组公共数据集，适合单细胞分析入门、教学演示和方法测试，支持与 scater、Seurat 等工具无缝结合
+tags: package; scRNAseq
+category: 🧭 Research
+---
+
 ## 📌 简介
 
 `scRNAseq` 是 Bioconductor 提供的一个数据包，专门收录了多个整理好的 **单细胞转录组测序（scRNA-seq）公共数据集**。

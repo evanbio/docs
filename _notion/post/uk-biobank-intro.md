@@ -1,3 +1,14 @@
+---
+title: UK Biobank 数据库介绍
+type: Post
+status: Published
+date: 2025/05/09
+slug: uk-biobank-intro
+summary: 简要介绍 UK Biobank 数据资源的组成与研究优势，适合初次接触该资源的科研人员。
+tags: UK Biobank; 临床数据库
+category: 🧭 Research
+---
+
 ### 一、什么是 UK Biobank？
 
 **UK Biobank（英国生物银行）** 是全球最具影响力的人群队列研究项目之一，旨在通过长期随访、全方位采集生理与遗传数据，推动公共健康和疾病预防研究的发展。自 2006 年起，UK Biobank 共招募了约 **50 万名**年龄在 40–69 岁之间的英国居民，并持续追踪其健康状况。

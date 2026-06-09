@@ -1,3 +1,14 @@
+---
+title: 访问和下载 FinnGen GWAS 汇总数据
+type: Post
+status: Published
+date: 2025/11/03
+slug: finngen-gwas-summary-data
+summary: 本文档介绍如何访问和下载 FinnGen 项目的 GWAS 汇总统计数据，并提供 R12 版本 manifest 与 readme 文件的共享链接。
+tags: GWAS; FinnGen
+category: 🧭 Research
+---
+
 ### 1. 概述 (Overview)
 
 本文档提供访问 FinnGen 数据库公开发布的 GWAS 汇总（Summary）数据的操作指南。

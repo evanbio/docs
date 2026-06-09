@@ -1,3 +1,14 @@
+---
+title: AUCell 流程笔记
+type: Post
+status: Published
+date: 2025/08/13
+slug: aucell
+summary: 基于 AUCell 对 GSE60361 小鼠脑单细胞数据进行基因集打分分析的完整流程，包括数据预处理、基因集构建、AUC 计算、阈值探索、细胞指派与可视化等步骤，并提供可复用的脚本骨架与优化建议
+tags: single cell; scRNA; AUCell
+category: 🧭 Research
+---
+
 > 目标：基于 AUCell 对单细胞表达矩阵计算基因集打分，完成阈值探索、细胞指派与可视化；整理为可复用的脚本骨架。
 > 
 

@@ -1,14 +1,12 @@
 ---
+title: Declaration of Helsinki｜赫尔辛基宣言
 type: Post
 status: Published
 date: 2026/05/06
 slug: declaration-of-helsinki
 summary: 介绍世界医学会《赫尔辛基宣言》的背景、核心原则、2024 版更新，以及它在医学研究伦理、知情同意和伦理审查中的意义。
-tags:
-  - 医学伦理
-  - 临床研究
-  - 知情同意
-category: 🩺 Medical Research
+tags: 医学伦理; 临床研究; 知情同意
+category: 🧭 Research
 ---
 
 # Declaration of Helsinki｜赫尔辛基宣言

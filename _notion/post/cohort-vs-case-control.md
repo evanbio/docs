@@ -1,3 +1,14 @@
+---
+title: Cohort study VS Case-control
+type: Post
+status: Published
+date: 2025/07/29
+slug: cohort-vs-case-control
+summary: 本文基于权威综述与STROBE指南，系统梳理了队列研究（Cohort Study）与病例对照研究（Case–Control Study）的定义、设计、统计分析、优缺点和适用场景，并重点比较回顾性队列研究、病例系列与病例对照研究。
+tags: Cohort Study; Case-Control Study
+category: 🧭 Research
+---
+
 ## ✍️ 引言
 
 在医学研究中，**观察性研究（Observational Studies）** 是探索疾病病因、风险因素和干预效果的重要工具。与随机对照试验（RCT）相比，观察性研究更贴近真实临床环境，但设计选择对结果的可靠性影响巨大。其中，**队列研究（Cohort Study）** 和 **病例对照研究（Case–Control Study）** 是两种最常用的设计，却常常被混淆。

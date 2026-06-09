@@ -1,3 +1,14 @@
+---
+title: UK Biobank 数据库申请指南
+type: Post
+status: Published
+date: 2025/05/09
+slug: uk-biobank-application
+summary: 详细介绍申请使用 UK Biobank 数据的完整流程，包括注册、在线申请、审核费用及 MTA 签署。
+tags: UK Biobank; 临床数据库
+category: 🧭 Research
+---
+
 ### 如何申请 UK Biobank 数据？
 
 UK Biobank 对全球研究人员开放使用，申请步骤如下：
