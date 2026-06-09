@@ -1,3 +1,14 @@
+---
+title: t 检验 · t-test
+type: Post
+status: Published
+date: 2025/08/04
+slug: t-test
+summary: 本笔记介绍 t 检验的核心概念、历史背景、应用场景、Student's t 分布、自由度、t 统计量、标准误，以及单样本和双样本均值比较中的统计推断逻辑。
+tags: t 检验; t-test; 均值比较; 统计检验
+category: 📊 Statistics
+---
+
 ## 1. 核心概念
 
 t 检验是一类用于比较**均值差异**的统计检验方法，常用于小样本（样本量 < 30）、总体标准差未知的情况下。

@@ -1,3 +1,14 @@
+---
+title: t-test: Principles and Application in R
+type: Post
+status: Published
+date: 2025-06-07
+slug: t-test-in-r
+summary: 本笔记介绍 t 检验的基本原理、适用场景、单样本、独立样本和配对样本 t 检验的区别、使用前提，以及在 R 中使用 t.test、ggpubr 和 rstatix 进行统计分析的方法。
+tags: t-test; R; 统计检验; 假设检验
+category: 📊 Statistics
+---
+
 ### 1. 背景与简介
 
 在日常科研、医学分析或数据挖掘中，我们经常会遇到这样的问题：

@@ -1,3 +1,14 @@
+---
+title: 相关性检验
+type: Post
+status: Published
+date: 2025/08/04
+slug: correlations
+summary: 本笔记介绍相关性检验的基本概念、相关性与因果性的区别、Pearson、Spearman 和 Kendall 相关检验的适用条件、结果解释，以及 R 中 cor.test 的常见用法。
+tags: 相关性检验; Pearson; cor
+category: 📊 Statistics
+---
+
 在数据分析与科学研究中，**相关性检验**是用来衡量两个变量之间是否存在统计学相关关系的基本方法。它广泛用于医学、心理学、社会科学、生物信息学等领域，是发现变量间潜在联系的第一步。
 
 ---

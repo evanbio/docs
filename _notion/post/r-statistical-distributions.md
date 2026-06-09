@@ -1,3 +1,14 @@
+---
+title: R语言中的常见统计分布及其应用
+type: Post
+status: Published
+date: 2025/08/05
+slug: r-statistical-distributions
+summary: 本笔记介绍 R 语言中常见统计分布的概念、函数和应用，包括正态分布、t 分布等概率分布的密度曲线绘制、随机数模拟、直方图与理论分布对比，以及典型数据分析场景。
+tags: R; 统计分布; 数据模拟
+category: 📊 Statistics
+---
+
 统计学分布是数据分析的基础。本文介绍R语言中最常用的统计分布，并用概率密度/概率质量图直观展示其特征，帮助大家理解分布形状及其典型应用。
 
 ---

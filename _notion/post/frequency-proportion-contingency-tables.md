@@ -1,3 +1,14 @@
+---
+title: 频率表、比例表与列联表笔记
+type: Post
+status: Published
+date: 2025/07/30
+slug: frequency-proportion-contingency-tables
+summary: 本笔记介绍频率表、比例表和列联表在分类变量汇总中的用途，并结合 R 中的 table、dplyr、gtsummary 和 ivo.table 展示单变量分布、联合分布与比例统计的常见做法。
+tags: 频率表; 列联表; R
+category: 📊 Statistics
+---
+
 在统计分析的基础阶段，我们经常需要对单个变量的分布、不同变量之间的联合分布进行汇总与可视化。常用方法包括频率表、比例表和列联表。
 
 ### 1. 频率表（Frequency Table）

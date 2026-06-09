@@ -1,3 +1,14 @@
+---
+title: 统计学三大学派概览
+type: Post
+status: Published
+date: 2025/07/30
+slug: statistical-schools-overview
+summary: 本笔记概览频率学派、贝叶斯学派和机器学习学派的基本思想、方法特点、代表工具、应用场景与差异，帮助理解现代统计与数据科学中的主要建模思路。
+tags: 统计学; 贝叶斯; 机器学习
+category: 📊 Statistics
+---
+
 ## 学派总览
 
 在现代统计与数据科学领域，主流建模思想大致分为三大学派：频率学派（Frequentist）、贝叶斯学派（Bayesian）和机器学习学派（Machine Learning）。三者有各自的理论基础与适用场景。

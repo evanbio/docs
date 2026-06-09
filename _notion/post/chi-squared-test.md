@@ -1,3 +1,14 @@
+---
+title: 卡方检验 · Chi-squared Test
+type: Post
+status: Published
+date: 2025/07/30
+slug: chi-squared-test
+summary: 本笔记介绍卡方检验的三种常见类型，包括独立性检验、同质性检验和拟合优度检验，并结合分类变量列联表、假设设定、p 值解释和 R 中的 chisq.test 示例说明其应用场景。
+tags: 卡方检验; Chi-squared Test; 分类变量
+category: 📊 Statistics
+---
+
 ## 卡方检验的三种类型
 
 ### 1️⃣ 独立性检验（Test of Independence）

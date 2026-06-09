@@ -1,3 +1,14 @@
+---
+title: 多重检验 · Multiple Testing
+type: Post
+status: Published
+date: 2025/08/04
+slug: multiple-testing
+summary: 本笔记介绍多重检验问题的来源、I 型错误累积、家族错误率 FWER、假发现率 FDR，以及 Bonferroni、Holm 和 Benjamini-Hochberg 等常见多重检验校正方法。
+tags: 多重检验; Multiple Testing; FDR
+category: 📊 Statistics
+---
+
 在数据分析和科学研究中，我们经常要进行许多假设检验，比如 t 检验、卡方检验等。每做一次检验，都有一定概率出现“假阳性”（即本不显著却被判定为显著）。**如果我们同时做很多次检验，错误发现的概率就会大大增加**，这就是“多重检验”问题。
 
 ---

@@ -1,3 +1,14 @@
+---
+title: 单因素逻辑回归
+type: Post
+status: Published
+date: 2025/08/07
+slug: univariate-logistic-regression
+summary: 本笔记介绍回归模型的基本思想、单因素回归与多因素回归的区别、线性回归和逻辑回归的模型形式、适用场景、假设诊断，以及单因素逻辑回归在二分类结局变量分析中的解释方法。
+tags: 逻辑回归; 单因素回归; R
+category: 📊 Statistics
+---
+
 ## 1. 从回归模型出发
 
 **目标**

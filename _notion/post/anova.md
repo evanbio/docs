@@ -1,3 +1,14 @@
+---
+title: 方差分析 · ANOVA
+type: Post
+status: Published
+date: 2025/08/12
+slug: anova
+summary: 本笔记介绍方差分析 ANOVA 的基本概念、单因素和双因素方差分析、重复测量 ANOVA、ANCOVA、正态性和方差齐性等假设前提、F 统计量原理，以及 R 中模拟数据、假设检查和模型拟合的常见做法。
+tags: 方差分析; ANOVA; F 统计量; R
+category: 📊 Statistics
+---
+
 ## 1. 什么是 ANOVA？
 
 **ANOVA（Analysis of Variance，方差分析）** 是一种用于比较多个组之间均值差异的统计方法。

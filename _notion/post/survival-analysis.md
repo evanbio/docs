@@ -1,3 +1,14 @@
+---
+title: 生存分析 · Survival Analysis
+type: Post
+status: Published
+date: 2025/08/14
+slug: survival-analysis
+summary: 本笔记介绍生存分析的基本概念、time 和 status 变量、删失数据、Kaplan-Meier 生存曲线、中位生存时间，以及 R 中 survival 和 survminer 包的常用函数和 lung 数据集示例。
+tags: R; 生存分析; Kaplan-Meier
+category: 📊 Statistics
+---
+
 ## **1. 生存分析简介**
 
 生存分析（Survival Analysis）用于研究**从起始事件到目标事件发生所经历的时间分布**，广泛应用于医学（如总生存期、无进展生存期）、工程（零件失效时间）、经济等领域。

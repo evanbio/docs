@@ -1,3 +1,14 @@
+---
+title: 多因素逻辑回归
+type: Post
+status: Published
+date: 2025/08/11
+slug: multivariable-logistic-regression
+summary: 本笔记介绍多因素逻辑回归的基本原理、logit 模型表达式、回归系数和优势比 OR 的解释、模拟数据构建、R 中 glm 拟合二分类结局模型，以及控制混杂因素后的独立效应分析。
+tags: 逻辑回归; 多因素回归; 回归分析; R
+category: 📊 Statistics
+---
+
 ## 1. 引言
 
 逻辑回归是统计与数据科学中最常用的分类模型之一，当结局变量是**二分类**（如疾病/无疾病）时，它能有效刻画自变量与结局之间的关系。

@@ -1,3 +1,14 @@
+---
+title: 统计功效（Power）与样本量（Sample Size）
+type: Post
+status: Published
+date: 2025/07/30
+slug: power-sample-size
+summary: 本笔记介绍统计功效分析的核心问题、Power 与 II 型错误的关系、I 型错误和 II 型错误的权衡、影响功效的主要因素，以及样本量估算在实验设计和统计推断中的作用。
+tags: 统计功效; 样本量; Power Analysis; II 型错误
+category: 📊 Statistics
+---
+
 ## 统计功效分析（Power Analysis）的核心问题
 
 统计功效分析是实验设计和统计推断中的重要环节，主要用于回答以下两个关键问题：

@@ -1,3 +1,14 @@
+---
+title: 置信区间 · Confidence Intervals
+type: Post
+status: Published
+date: 2025/07/31
+slug: confidence-intervals
+summary: 本笔记介绍置信区间的核心概念、置信水平的正确解释、精确置信区间与近似置信区间的区别，以及在 R 中使用 binom.test 和 prop.test 计算比例置信区间的示例。
+tags: 置信区间; Confidence Intervals; 统计推断
+category: 📊 Statistics
+---
+
 置信区间是统计推断中最常用的工具之一，用于为未知总体参数（如均值、比例、回归系数）提供一个基于样本的区间估计。相比单一的点估计，置信区间更直观地展示了参数估计的不确定性。
 
 ---

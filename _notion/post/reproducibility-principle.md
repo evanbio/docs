@@ -1,3 +1,14 @@
+---
+title: 数据分析的可复现性：原则与实践
+type: Post
+status: Published
+date: 2025/08/05
+slug: reproducibility-principle
+summary: 本笔记介绍数据分析可复现性的核心要求与实践方法，包括原始数据共享、元数据和 codebook、完整分析代码公开、R Markdown 与 Jupyter 等工具选择，以及减少人为错误和提升科研透明度的操作规范。
+tags: 可复现性; 数据分析; 科研透明
+category: 📊 Statistics
+---
+
 在现代科研和数据分析中，**可复现性**是评价一项工作是否可信、科学的基础。如果一项分析可以被他人完全复现，说明其每一步都**透明、严谨且经得起检验**。高可复现性不仅便于同行审查，还能有效防止数据造假和p-hacking等问题。
 
 ## 一、可复现性的核心要求
