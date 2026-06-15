@@ -117,6 +117,10 @@ const nextConfig = {
       locales: locales
     },
   images: {
+    // 关闭 Vercel 图片优化，直接透传外链图片
+    // Reason: next/image 优化会让 Notion/Unsplash 大图经 Vercel 转换并从源站传出，
+    // 大幅消耗 Fast Origin Transfer 流量（免费版 10GB 上限）。关闭后由图片源站直接提供。
+    unoptimized: true,
     // 图片压缩和格式优化
     formats: ['image/avif', 'image/webp'],
     // 图片尺寸优化

@@ -8,8 +8,16 @@ import BLOG from './blog.config'
  * Clerk 身份验证中间件
  */
 export const config = {
-  // 这里设置白名单，防止静态资源被拦截
-  matcher: ['/((?!.*\\..*|_next|/sign-in|/auth).*)', '/', '/(api|trpc)(.*)']
+  // 仅对需要鉴权/重定向的路由运行 middleware，避免每次普通页面访问都触发函数执行
+  // Reason: 旧 matcher 几乎匹配所有页面路由，导致每次访问都消耗 Vercel Fluid Active CPU。
+  // 普通文章/列表页是纯静态 ISR，不需要 middleware；只在真正需要的受保护路由上运行即可。
+  matcher: [
+    '/dashboard/:path*',
+    '/admin/:path*',
+    '/user/:path*',
+    '/sign-in/:path*',
+    '/sign-up/:path*'
+  ]
 }
 
 // 限制登录访问的路由
