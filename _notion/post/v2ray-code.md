@@ -37,17 +37,17 @@ category: 🛠 Tech
 
 这是**最关键**的第一步，也是**最容易出错**的一步。
 
-1. **获取 IP:** 在 Vultr 创建 VPS 后，得到你的服务器 IP (例如: `1.2.3.4`)。
+1. **获取 IP:** 在 Vultr 创建 VPS 后，得到你的服务器 IP (例如: `203.0.113.10`)。
 2. **登录服务器:** 在本地 PowerShell 中，使用 SSH 登录。
     
     ```powershell
-    ssh root@1.2.3.4
+    ssh root@203.0.113.10
     ```
     
 3. **配置 DNS:** 登录 Cloudflare (或其他 DNS 服务商)，添加 `A` 记录。
     - **Type:** `A`
     - **Name:** `vps` (你的子域名, 完整就是 `vps.your-domain.com`)
-    - **Content:** `1.2.3.4` (你的服务器 IP)
+    - **Content:** `203.0.113.10` (你的服务器 IP)
     - **Proxy status (代理状态):** **必须是 "DNS only" (灰色云朵)！**
     - **Proxy status (代理状态):** **必须是 "DNS only" (灰色云朵)！**
     - **Proxy status (代理状态):** **必须是 "DNS only" (灰色云朵)！**
@@ -107,7 +107,7 @@ Xray 的配置文件决定了它如何接收和处理数据。
           "settings": {
             "clients": [
               {
-                "id": "a35cb270-bb0d-4d0e-ae9d-346a39e6fd6f", 
+                "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
                 "alterId": 0
               }
             ]
@@ -151,16 +151,16 @@ Nginx 是我们的“门卫”，它负责处理所有 `https://vps.your-domain.
     ```bash
     server {
         listen 80;
-        server_name vps.evanzhou.org;
+        server_name vps.your-domain.com;
         return 301 https://$host$request_uri;
     }
     
     server {
         listen 443 ssl http2;
-        server_name vps.evanzhou.org;
+        server_name vps.your-domain.com;
     
-        ssl_certificate /etc/letsencrypt/live/vps.evanzhou.org/fullchain.pem;
-        ssl_certificate_key /etc/letsencrypt/live/vps.evanzhou.org/privkey.pem;
+        ssl_certificate /etc/letsencrypt/live/vps.your-domain.com/fullchain.pem;
+        ssl_certificate_key /etc/letsencrypt/live/vps.your-domain.com/privkey.pem;
         ssl_protocols TLSv1.2 TLSv1.3;
     
         location / {
@@ -207,7 +207,6 @@ systemctl stop nginx
 # 4. 运行 Certbot 申请证书
 # [注意!] 替换成你自己的域名和邮箱
 certbot certonly --standalone -d vps.your-domain.com --non-interactive --agree-tos --email your-email@example.com
-certbot certonly --standalone -d vps.evanzhou.org --non-interactive --agree-tos --email evanzhou.bio@gmail.com
 
 # 5. 启动 Nginx (现在 Nginx 找到了证书, 可以成功启动了)
 systemctl start nginx
@@ -250,7 +249,7 @@ systemctl enable nginx
 ### 坑点二：新节点连接失败 (IP 被封)
 
 - **现象：** 在修复了“灰色云朵”问题后，刷新本地 DNS 缓存 (`ipconfig /flushdns`)，洛杉矶节点延迟恢复正常 (160ms)，但东京节点直接**连接失败**，V2RayN 日志显示 `failed to dial` 或 `context canceled`。
-- **排查：** 这 99% 意味着 VPS 提供商分配给我的这个东京服务器 IP (例如 `5.6.7.8`) **已经被 GFW 封锁了**。
+- **排查：** 这 99% 意味着 VPS 提供商分配给我的这个东京服务器 IP (例如 `203.0.113.20`) **已经被 GFW 封锁了**。
 - **原理：** 这是新手自建 VPS 最大的“抽奖”环节。你拿到的 IP 可能是上一个租用者用过导致被封的“不干净”IP。
 - **解决：** **VPS 按小时计费，唯一的办法就是“换 IP”**：
     1. 登录 VPS 控制台，**销毁 (Destroy)** 那台被封的服务器。
